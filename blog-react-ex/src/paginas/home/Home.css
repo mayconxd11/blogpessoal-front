@@ -1,0 +1,12 @@
+.titulo {
+    /* background-color: #6c909a; */
+    color: #1f01b9;
+    text-align: center;
+}
+
+.foto {
+    width: 350px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+}
