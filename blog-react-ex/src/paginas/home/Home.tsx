@@ -1,12 +1,12 @@
 import React from 'react'
-import './Home.css' ;
+import './Home.css';
+import { Box, Button, Grid, Paper } from '@material-ui/core';
 
-function Home(){
+function Home() {
     return (
         <>
-        <h1 className='titulo'>Home</h1>
-        <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5879568-web-designer-modern-flat-concept-for-web-banner-design-man-working-with-website-layout-places-images-and-other-graphic-elements-optimized-page-code-vector-illustration-cena-com-pessoas-isoladas-vetor.jpg" alt='imagem pessoas' className='foto'/>
+            <h1>HOME!!!</h1>
         </>
 
     );
-}export default Home ;
+} export default Home;
