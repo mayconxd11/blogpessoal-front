@@ -18,10 +18,10 @@ function Footer() {
                             <a href="" target="_blank">
                                 <FacebookIcon style={{ fontSize: 60, color: "white" }} />
                             </a>
-                            <a href="https://www.instagram.com/generationbrasil/" target="_blank">
+                            <a href="https://www.instagram.com/mayconths/?next=%2F" target="_blank">
                                 <InstagramIcon style={{ fontSize: 60, color: "white" }} />
                             </a>
-                            <a href="https://www.linkedin.com/school/generationbrasil/" target="_blank">
+                            <a href="https://www.linkedin.com/in/maycon-silva-4673ba234/" target="_blank">
                                 <LinkedInIcon style={{ fontSize: 60, color: "white" }} />
                             </a>
                         </Box>

@@ -3,6 +3,7 @@ import {Typography, Grid, Button} from '@material-ui/core';
 import {Box} from '@mui/material';
 import './Home.css';
 
+
 function Home() {
     return (
         <>
@@ -19,7 +20,7 @@ function Home() {
                     </Box>
                 </Grid>
                 <Grid item xs={6} >
-                    <img src="https://o.remove.bg/downloads/53c918e6-3c51-448d-a98e-acbcd17b7a95/pngtree-people-working-in-a-table-meeting-and-the-co-working-shared-png-image_4520216-removebg-preview.png" alt="" width="350px" height="350px" />
+                    <img src="https://i.imgur.com/H88yIo2.png" alt="" width="350px" height="350px" />
                 </Grid>
                 <Grid xs={12} style={{ backgroundColor: "white" }}>
                 </Grid>
